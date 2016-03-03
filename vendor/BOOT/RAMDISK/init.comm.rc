@@ -1,0 +1,7 @@
+on boot
+setprop persist.data.target dpm1
+setprop persist.radio.adb_log_on 1
+setprop persist.radio.multisim.config dsds
+setprop ro.telephony.default_network 22,1
+setprop persist.yulong.operators.mode 1
+setprop persist.data.qmi.adb_logmask 0
