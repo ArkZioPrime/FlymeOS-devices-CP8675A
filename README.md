@@ -1,4 +1,4 @@
-# FlymeOS-devices-cp8675a
+# FlymeOS-devices-cp8675a ![image](https://imgm9.cnmo.com/cnmo_product/21_800x600/269/ceNaNRV9Kv3Ys.jpg)
 
 # CoolPAD Dazen F2 Full Netcom
 
