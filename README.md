@@ -10,7 +10,7 @@
 |                 Storage | 16G                                                     |  
 
 
-# ![image](http://i.miaosu.bid/data/f_46942703.jpg)
+ <img align="right"  src="http://i.miaosu.bid/data/f_46942703.jpg" width=300 height=300 />
 
 
 
