@@ -1,8 +1,5 @@
 # Device Specifications
 
-
-|                FlymeOS_devices|cp8675a                                            |
-|                    Based on CM12.1                                                |
 |                   Basic | Spec Sheet                                              |
 | ----------------------: | :------------------------------------------------------ | 
 |                     CPU | Octa-core CPU with Qualcomm                             |
