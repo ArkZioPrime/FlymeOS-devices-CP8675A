@@ -1,7 +1,4 @@
-# ![image](http://i.miaosu.bid/data/f_46942703.jpg)
-
-
-## Device Specifications
+# Device Specifications
 
 |                   Basic | Spec Sheet                                              |
 | ----------------------: | :------------------------------------------------------ |
@@ -19,6 +16,8 @@
 # Thanks compile author: yuwen
 
 # patchrom author: LXSN
+
+# ![image](http://i.miaosu.bid/data/f_46942703.jpg)
 
 
 
