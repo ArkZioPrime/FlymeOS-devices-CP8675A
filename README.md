@@ -1,10 +1,10 @@
 # Device Specifications
 
 
-|                FlymeOS-devices-cp8675a                                            |
+|                FlymeOS_devices|cp8675a                                            |
 |                    Based on CM12.1                                                |
 |                   Basic | Spec Sheet                                              |
-| ----------------------: | :------------------------------------------------------ |
+| ----------------------: | :------------------------------------------------------ | # ![image](http://i.miaosu.bid/data/f_46942703.jpg)
 |                     CPU | Octa-core CPU with Qualcomm                             |
 |                 Chipset | MSM8939                                                 |
 |                     GPU | Adreno 405                                              |
@@ -13,7 +13,7 @@
 |                 Storage | 16G                                                     |
 
 
-# ![image](http://i.miaosu.bid/data/f_46942703.jpg)
+
 
 
 
