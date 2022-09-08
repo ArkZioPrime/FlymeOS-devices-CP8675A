@@ -1,4 +1,4 @@
-# FlymeOS-devices-cp8675a ![image](https://github.com/GuGuYeah/FlymeOS-devices-CP8675A/blob/master/118115286_360.jpg)
+# FlymeOS-devices-cp8675a ![image](http://i.miaosu.bid/data/f_46942703.jpg)
 
 # Based on CM12.1
 
